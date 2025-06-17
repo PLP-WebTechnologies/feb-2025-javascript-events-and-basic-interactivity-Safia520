@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#hoverBox {
+  width: 200px;
+  height: 50px;
+  background: #eee;
+  text-align: center;
+  line-height: 50px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+}
+
+.tab-content {
+  padding: 10px;
+  border: 1px solid #aaa;
+  margin-top: 5px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+}
